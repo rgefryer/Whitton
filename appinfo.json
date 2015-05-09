@@ -1,0 +1,27 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "richard@richardfryer.com",
+    "longName": "Fred Whitton Timekeeper",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/FW.png",
+                "menuIcon": true,
+                "name": "MAIN_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "FW Timekeeper",
+    "uuid": "454fc04e-a982-4f07-bfe5-336af92d991e",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
